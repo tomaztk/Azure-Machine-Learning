@@ -21,4 +21,20 @@ Azure Machine Learning (or Azure Machine Learning Service and abbreviation AML) 
 3. [Dec 03 2022: Understanding Azure Machine Learning Studio](03.md) ([blogpost](https://tomaztsql.wordpress.com/2022/12/03/advent-of-2022-day-3-understanding-azure-machine-learning-studio/))
 4. [Dec 04 2022: Getting data to Azure Machine Learning workspace](04.md) ([blogpost](https://tomaztsql.wordpress.com/2022/12/04/advent-of-2022-day-4-getting-data-to-azure-machine-learning-workspace/))
 5. [Dec 05 2022: Creating compute and cluster instances in Azure Machine Learning](05.md) ([blogpost](https://tomaztsql.wordpress.com/2022/12/05/advent-of-2022-day-5-creating-compute-and-cluster-instances-in-azure-machine-learning/))
-6. [Dec 06 2022: Environments in Azure Machine Learning](06.md) ([blogpost](https://tomaztsql.wordpress.com/2022/12/06/...))
+6. [Dec 06 2022: Environments in Azure Machine Learning](06.md) ([blogpost](https://tomaztsql.wordpress.com/2022/12/06/advent-of-2022-day-6-environments-in-azure-machine-learning/))
+7. [Dec 07 2022: Introduction to Azure CLI and Python SDK](07.md) ([blogpost](https://tomaztsql.wordpress.com/2022/12/07/advent-of-2022-day-7-introduction-to-azure-cli-and-python-sdk/))
+
+
+
+## Additional Material
+
+Additional Material as a collection of demo materials from different sessions is also available for use in this repository.
+
+## Blog
+
+All posts were originally posted on my [blog](https://tomaztsql.wordpress.com) and made copy here at Github. On Github is extremely simple to clone the code, markdown file and all the materials.
+
+
+## Suggestions
+Feel free to suggest any new topics that you would like to be covered.
+
