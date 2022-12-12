@@ -23,6 +23,11 @@ Azure Machine Learning (or Azure Machine Learning Service and abbreviation AML) 
 5. [Dec 05 2022: Creating compute and cluster instances in Azure Machine Learning](05.md) ([blogpost](https://tomaztsql.wordpress.com/2022/12/05/advent-of-2022-day-5-creating-compute-and-cluster-instances-in-azure-machine-learning/))
 6. [Dec 06 2022: Environments in Azure Machine Learning](06.md) ([blogpost](https://tomaztsql.wordpress.com/2022/12/06/advent-of-2022-day-6-environments-in-azure-machine-learning/))
 7. [Dec 07 2022: Introduction to Azure CLI and Python SDK](07.md) ([blogpost](https://tomaztsql.wordpress.com/2022/12/07/advent-of-2022-day-7-introduction-to-azure-cli-and-python-sdk/))
+8. [Dec 08 2022: Python SDK namespaces for workspace, experiments and models](08.md) ([blogpost](https://tomaztsql.wordpress.com/2022/12/08/advent-of-2022-day-8-python-sdk-namespaces-for-workspace-experiments-and-models/))
+9. [Dec 09 2022: Python SDK namespaces for environment, and pipelines](09.md) ([blogpost](https://tomaztsql.wordpress.com/2022/12/09/advent-of-2022-day-9-python-sdk-namespaces-for-environment-and-pipelines/))
+10. [Dec 10 2022: Connecting to client using Python SDK namespaces](10.md) ([blogpost](https://tomaztsql.wordpress.com/2022/12/10/advent-of-2022-day-10-connecting-to-client-using-python-sdk-namespaces/))
+11. [Dec 11 2022: Creating Pipelines with Python SDK](11.md) ([blogpost](https://tomaztsql.wordpress.com/2022/12/11/advent-of-2022-day-11-creating-pipelines-with-python-sdk/))
+12. [Dec 12 2022: Creating jobs](12.md) ([blogpost](https://tomaztsql.wordpress.com/2022/12/11/advent-of-2022-day-12-creating-jobs/))
 
 
 
