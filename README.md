@@ -28,7 +28,7 @@ Azure Machine Learning (or Azure Machine Learning Service and abbreviation AML) 
 10. [Dec 10 2022: Connecting to client using Python SDK namespaces](10.md) ([blogpost](https://tomaztsql.wordpress.com/2022/12/10/advent-of-2022-day-10-connecting-to-client-using-python-sdk-namespaces/))
 11. [Dec 11 2022: Creating Pipelines with Python SDK](11.md) ([blogpost](https://tomaztsql.wordpress.com/2022/12/11/advent-of-2022-day-11-creating-pipelines-with-python-sdk/))
 12. [Dec 12 2022: Creating jobs](12.md) ([blogpost](https://tomaztsql.wordpress.com/2022/12/11/advent-of-2022-day-12-creating-jobs/))
-
+13. [Dec 13 2022: Automated ML](13.md) ([blogpost](https://tomaztsql.wordpress.com/2022/12/13/advent-of-2022-day-13-automated-ml/))
 
 
 ## Additional Material
