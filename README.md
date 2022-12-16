@@ -29,8 +29,11 @@ Azure Machine Learning (or Azure Machine Learning Service and abbreviation AML) 
 11. [Dec 11 2022: Creating Pipelines with Python SDK](11.md) ([blogpost](https://tomaztsql.wordpress.com/2022/12/11/advent-of-2022-day-11-creating-pipelines-with-python-sdk/))
 12. [Dec 12 2022: Creating jobs](12.md) ([blogpost](https://tomaztsql.wordpress.com/2022/12/11/advent-of-2022-day-12-creating-jobs/))
 13. [Dec 13 2022: Automated ML](13.md) ([blogpost](https://tomaztsql.wordpress.com/2022/12/13/advent-of-2022-day-13-automated-ml/))
-14. [Dec 14 2022: Registering the models](14.md) ([blogpost](https://tomaztsql.wordpress.com/2022/12/14/advent-of-2022-day-14-registering-the-models/(opens in a new tab)))
-15. [Dec 15 2022: Getting to know MLflow](15.md) ([blogpost](https://tomaztsql.wordpress.com/2022/12/15/advent-of-2022-day-15-getting-to-know-mlflow/(opens in a new tab)))
+14. [Dec 14 2022: Registering the models](14.md) ([blogpost](https://tomaztsql.wordpress.com/2022/12/14/advent-of-2022-day-14-registering-the-models/))
+15. [Dec 15 2022: Getting to know MLflow](15.md) ([blogpost](https://tomaztsql.wordpress.com/2022/12/15/advent-of-2022-day-15-getting-to-know-mlflow/))
+16. [Dec 16 2022: MLflow in action with xgboost](16.md) ([blogpost](https://tomaztsql.wordpress.com/2022/12/16/advent-of-2022-day-16-mlflow-in-action-with-xgboost/))
+
+
 
 
 ## Additional Material
