@@ -49,6 +49,6 @@ Notebooks provide great collaboration within the team of data scientists as well
 * Create Real-time inference and batch scoring inference with easy connection to REST
 * Monitor and audit your ML projects
 
-##How to get started?
+## How to get started?
 
 All you need is an Azure subscription (you can get one for [free](https://azure.microsoft.com/en-gb/free/)). Once you register and login, one last thing is a dataset and a problem you wish to solve.
