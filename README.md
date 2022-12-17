@@ -32,7 +32,7 @@ Azure Machine Learning (or Azure Machine Learning Service and abbreviation AML) 
 14. [Dec 14 2022: Registering the models](14.md) ([blogpost](https://tomaztsql.wordpress.com/2022/12/14/advent-of-2022-day-14-registering-the-models/))
 15. [Dec 15 2022: Getting to know MLflow](15.md) ([blogpost](https://tomaztsql.wordpress.com/2022/12/15/advent-of-2022-day-15-getting-to-know-mlflow/))
 16. [Dec 16 2022: MLflow in action with xgboost](16.md) ([blogpost](https://tomaztsql.wordpress.com/2022/12/16/advent-of-2022-day-16-mlflow-in-action-with-xgboost/))
-
+17. [Dec 17 2022: Building responsible AI dashboard with Python SDK](17.md) ([blogpost](https://tomaztsql.wordpress.com/2022/12/17/advent-of-2022-day-17-building-responsible-ai-dashboard-with-python-sdk/))
 
 
 
