@@ -34,6 +34,7 @@ Azure Machine Learning (or Azure Machine Learning Service and abbreviation AML) 
 16. [Dec 16 2022: MLflow in action with xgboost](16.md) ([blogpost](https://tomaztsql.wordpress.com/2022/12/16/advent-of-2022-day-16-mlflow-in-action-with-xgboost/))
 17. [Dec 17 2022: Building responsible AI dashboard with Python SDK](17.md) ([blogpost](https://tomaztsql.wordpress.com/2022/12/17/advent-of-2022-day-17-building-responsible-ai-dashboard-with-python-sdk/))
 18. [Dec 18 2022: Statistical analysis, plotting graphs and feature engineering](18.md)([blogpost](https://tomaztsql.wordpress.com/2022/12/18/advent-of-2022-day-18-statistical-analysis-plotting-graphs-and-feature-engineering/))
+19. [Dec 19 2022: Statistical analysis and ML comparison of prediction models](19.md)([blogpost](https://tomaztsql.wordpress.com/2022/12/19/advent-of-2022-day-19-statistical-analysis-and-ml-comparison-of-prediction-models/))
 
 
 ## Additional Material
