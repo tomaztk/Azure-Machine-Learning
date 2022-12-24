@@ -38,7 +38,8 @@ Azure Machine Learning (or Azure Machine Learning Service and abbreviation AML) 
 20. [Dec 20 2022: Handling kernels, python packages, YAML files in notebooks and keeping structure and good practices](20.md)([blogpost](https://tomaztsql.wordpress.com/2022/12/20/advent-of-2022-day-20-handling-kernels-python-packages-yaml-files-in-notebooks-and-keeping-structure-and-good-practices/))
 21. [Dec 21 2022: Using Azure Machine Learning terminal](21.md)([blogpost](https://tomaztsql.wordpress.com/2022/12/21/advent-of-2022-day-21-using-azure-machine-learning-terminal/))
 22. [Dec 22 2022: Batch endpoints for batch scoring](22.md)([blogpost](https://tomaztsql.wordpress.com/2022/12/22/advent-of-2022-day-22-batch-endpoints-for-batch-scoring/))
-
+23. [Dec 23 2022: Working with R](23.md)([blogpost](https://tomaztsql.wordpress.com/2022/12/23/advent-of-2022-day-23-working-with-r/))
+24. [Dec 24 2022: Further reading and code material for Azure Machine Learning](24.md)([blogpost](https://tomaztsql.wordpress.com/2022/12/24/advent-of-2022-day-24-additional-reading-material-books/))
 
 
 
