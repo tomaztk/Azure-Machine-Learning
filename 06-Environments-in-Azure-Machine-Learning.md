@@ -73,7 +73,7 @@ These curated environments are provided by AML, and made available in your works
 
 These curated environments are available using a azureml syntax for training or deployment. With the use of the function, you can get the environment ready.
 
-```bash
+``` bash
 azureml:AzureML-ACPT-pytorch-1.12-py39-cuda11.6-gpu:3
 //or 
 azureml:AzureML-ACPT-pytorch-1.12-py39-cuda11.6-gpu@latest
@@ -82,7 +82,7 @@ azureml:AzureML-ACPT-pytorch-1.12-py39-cuda11.6-gpu@latest
 
 You can also check the list of all available curated environments in the Azure ML Studio (which we did), or by using the Azure CLI (as viewed in Fig. 2) and running the command: 
 
-```
+``` bash 
 az ml environments list
 ```
 
