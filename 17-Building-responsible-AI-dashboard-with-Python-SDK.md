@@ -70,7 +70,50 @@ With 500 iterations, we will rung this classification problem, using ligthgbm LG
 
 
 
+![](imgs/img17_02.png)
+Fig 3: running 500 repetations
 
-```
 
-```
+Once the classification is completed, we can start creating a dashboard.
+
+
+![](imgs/img17_04.png)
+Fig 4: Code for creating responsible dashboard
+
+And Once completed, you can run the dashboard. It will be deliverd as a separate URL. So just copy and paste it to a new window:
+
+https://amlblog2022-ds12-v2-5000.germanywestcentral.instances.azureml.ms/ (URL will not work for you).
+
+
+![](imgs/img17_05.png)
+Fig 5: Running dashboard
+
+## Interpretation
+
+Now that we have the error analysis in front and we can immediatelly see, that 24,11% of error rate is contribrubte by respondents with mariatl statuts == married-civ-spouse.
+
+Error Analysis identifies cohorts of data with higher error rate than the overall benchmark. These discrepancies might occur when the system or model underperforms for specific demographic groups or infrequently observed input conditions in the training data. There are two type, decision tree and heat map. Decision tree helps you discover cohorts with higher error rates accross multiple features using binary tree visualisation.
+
+
+![](imgs/img17_06.png)
+Fig 6: Error analysis with Decision tree
+
+Once you decide on which node you want to focus, you can switch to heat-map to further investigate and explain, which feature causes discrepancies in the model:
+
+
+![](imgs/img17_07.png)
+Fig 7: Using heatmap to better understand cohorts
+
+
+In addition, you can specify the accuracy of the model with cohorts and also check the probability distributions.
+
+
+![](imgs/img17_08.png)
+Fig 8: Accuracy of the model by cohorts
+
+And you can also analyse the feature importances by cohorts and by given variables.
+
+![](imgs/img17_09.png)
+Fig 9: Feature importance
+
+This notebook was prepared on the basis of demo use case from Microsoft’s Github notebook.
